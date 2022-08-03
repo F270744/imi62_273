@@ -1,4 +1,7 @@
 <?phd
-echo "Hello FITREE CHE-NGOH";
-echo "ID : 64110307";
+$name = "FITREE CHE-NGOH";
+$sid = "64110307";
+echo "Hello ".$name;
+echo "ID : ".$sid;
+
 ?>
